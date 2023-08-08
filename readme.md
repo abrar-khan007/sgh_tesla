@@ -12,7 +12,7 @@ We have a CSS folder
 
 ### 2- Design the Front-End Page (use Flexbox or Grid)
 
-![index_page](./assets/Screenshot_1.png)
+![index_page](assets/Screenshot_1.png)
 
 Figma design link is given here below, please use it to design the respective page accordingly.
 
@@ -39,7 +39,7 @@ Render the list of posts but instead in a Select box that can be choosen and aft
 https://source.unsplash.com/featured/600x400;
 The above link will give you random images by the specified size.
 
-![post_page](./assets/Screenshot_2.png)
+![post_page](assets/Screenshot_2.png)
 
 ### 5- Add Dark/Light theme configs to your css using a best practice!
 
