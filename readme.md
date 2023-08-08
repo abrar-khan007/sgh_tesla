@@ -48,13 +48,13 @@ You can use the figma design to find the proper color codings.
 
 ### 6- Use semantic HTML, BEM CSS, Gitflow, Semantic commits
 
-Project Setup
-Pure JS
-Multi Page
-Fetch API
-Dark/Light theme
-Semantic HTML / BEM CSS rules
-Github semantic commits
-GITflow
-Github PR
-Github Branching
+- Project Setup
+- Pure JS
+- Multi Page
+- Fetch API
+- Dark/Light theme
+- Semantic HTML / BEM CSS rules
+- Github semantic commits
+- Gitflow
+- Github PR
+- Github Branching
