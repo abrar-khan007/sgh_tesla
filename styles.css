@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Base font size in browser is 16px and 1rem unit is also equal to base font size which is 16px => 1rem = 16px */
+/* To make it easier to calculate we set font-size of the document root html tag to 62.5% of 16px which is 10px */
+/* Now 1rem is 10px and it is relative to the html root font size */
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  /* 1.6rem === 16px */
+  font-size: 1.6rem;
+}
